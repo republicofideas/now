@@ -92,3 +92,4 @@ Expression: a ÷ b ÷ γ + δ | Result: a ÷ b ÷ γ + δ = 4.1666665
 Expression: a ÷ b ÷ γ − δ | Result: a ÷ b ÷ γ − δ = -3.8333333
 Expression: a ÷ b ÷ γ × δ | Result: a ÷ b ÷ γ × δ = 0.6666667
 Expression: a ÷ b ÷ γ ÷ δ | Result: a ÷ b ÷ γ ÷ δ = 0.041666668~
+1731036174.670144511 roztyly
